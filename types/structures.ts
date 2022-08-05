@@ -74,10 +74,10 @@ interface Backpack<Type> {
 
 declare const backpack: Backpack<string>;
 
-const object = backpack.get();
+// const object = backpack.get();
 
 // backpack.add(23);
-backpack.add("Hello");
+// backpack.add("Hello");
 
 // Structural type system
 interface Point {
