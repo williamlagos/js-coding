@@ -1,2 +1,2 @@
-# es-coding
-ECMAScript coding challenges and samples
+# js-coding
+ECMAScript / Typescript coding challenges and samples
